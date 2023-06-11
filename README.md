@@ -4,7 +4,7 @@
 <br/>
 <img align="right" alt="coding" width="300" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" />
 
-<p align="justify">
+<p align="left">
 Welcome to Sobia Mustafa's GitHub Playground!
 I'm Mobile and Web Development. Computer Science Grad with a Passion for HTML, CSS, JS, React, Ionic, React Native, Firebase, Bootstrap, SaaS, Styled Components, and Beyond. Embarking on an Exciting Journey through the World of Coding. Join Me!
 </p> <br/>
