@@ -6,9 +6,7 @@
 
 <p align="left">
 Welcome to Sobia Mustafa's GitHub Playground!
-I'm Mobile and Web Development.
-Computer Science Grad with a Passion for HTML, CSS, JS, React, Ionic, React Native, Firebase, Bootstrap, SaaS, Styled Components, and Beyond.
-Embarking on an Exciting Journey through the World of Coding. Join Me!
+I'm Mobile and Web Development.Computer Science Grad with a Passion for HTML, CSS, JS, React, Ionic, React Native, Firebase, Bootstrap, SaaS, Styled Components, and Beyond. Embarking on an Exciting Journey through the World of Coding. Join Me!
 </p>
 
 - 🔭 I’m currently working on **React and React Native projects**
