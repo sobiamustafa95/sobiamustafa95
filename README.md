@@ -4,10 +4,10 @@
 <br/>
 <img align="right" alt="coding" width="300" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" />
 
-<p align="left">
+<p align="justify">
 Welcome to Sobia Mustafa's GitHub Playground!
-I'm Mobile and Web Development.Computer Science Grad with a Passion for HTML, CSS, JS, React, Ionic, React Native, Firebase, Bootstrap, SaaS, Styled Components, and Beyond. Embarking on an Exciting Journey through the World of Coding. Join Me!
-</p>
+I'm Mobile and Web Development. Computer Science Grad with a Passion for HTML, CSS, JS, React, Ionic, React Native, Firebase, Bootstrap, SaaS, Styled Components, and Beyond. Embarking on an Exciting Journey through the World of Coding. Join Me!
+</p> <br/>
 
 - 🔭 I’m currently working on **React and React Native projects**
 - 🌱 I’m currently learning Tailwind and beyond 
