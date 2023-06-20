@@ -11,8 +11,7 @@ I'm Mobile and Web Development. Computer Science Grad with a Passion for HTML, C
 
 - 🔭 I’m currently working on **React and React Native projects**
 - 🌱 I’m currently learning Tailwind and beyond 
-- 📫 How to reach me: sobiamustafa95@gmail.com 
-- 📝 I write articles on [https://medium.com/@sobiamustafa95](https://medium.com/@sobiamustafa95)
+- 📫 How to reach me: sobiamustafa95@gmail.com
 - 😄 Pronouns: s-oh-bee-ah 
 <br/>
 <h2 align="left"> 🌐 Connect with me:</h2>
